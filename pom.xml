@@ -16,7 +16,7 @@
         <version.junit>4.11</version.junit>
         <version.h2>1.4.187</version.h2>
         <hibernate.version>4.3.11.Final</hibernate.version>
-        <spring.version>5.1.9.RELEASE</spring.version>
+        <spring.version>5.3.6</spring.version>
 
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
