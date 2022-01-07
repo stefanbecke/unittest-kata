@@ -14,7 +14,7 @@
         <!-- set the version for camunda BPM here -->
         <version.camunda>7.9.0-ee</version.camunda>
         <version.junit>4.11</version.junit>
-        <version.h2>1.4.187</version.h2>
+        <version.h2>2.0.206</version.h2>
         <hibernate.version>4.3.11.Final</hibernate.version>
         <spring.version>5.1.9.RELEASE</spring.version>
 
